@@ -1,0 +1,2 @@
+the $provide usage:
+https://gist.github.com/demisx/9605099
